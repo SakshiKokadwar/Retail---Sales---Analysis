@@ -1,5 +1,4 @@
-# Retail---Sales---Analysis
-# Retail Sales Data Analysis
+# RetailLens:
 
 ## Business Problem
 Retail businesses need to understand customer behavior, seasonal demand, and product performance to optimize marketing, inventory, and pricing strategies.  
